@@ -15,7 +15,7 @@
     {
       "source": "/api/emails",
       "headers": [
-        { "key": "Access-Control-Allow-Origin", "value": "https://findmeds-ma.webed.app" },
+        { "key": "Access-Control-Allow-Origin", "value": "https://findmeds-ma.web.app" },
         { "key": "Access-Control-Allow-Methods", "value": "GET, POST, OPTIONS" },
         { "key": "Access-Control-Allow-Headers", "value": "Content-Type" },
         { "key": "Access-Control-Max-Age", "value": "86400" }
